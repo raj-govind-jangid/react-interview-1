@@ -1,0 +1,8 @@
+export const authAction = {
+    SET_AUTH: "SET_AUTH",
+    REMOVE_AUTH: "REMOVE_AUTH", 
+    SET_ERROR: "SET_ERROR", 
+    REMOVE_ERROR: "REMOVE_ERROR",
+    SET_MESSAGE: "SET_MESSAGE", 
+    REMOVE_MESSAGE: "REMOVE_MESSAGE", 
+};
